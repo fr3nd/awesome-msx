@@ -42,6 +42,8 @@ A curated list of awesome resources for the 8-bit MSX computer.
 
 ## Communities
 
+* [MSX Resource Center](https://www.msx.org) - Probably the biggest community with news, a very active forum, wiki and more.
+
 ## Resources
 
 ## Contributing
