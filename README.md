@@ -11,10 +11,10 @@ A curated list of awesome resources for the 8-bit MSX computer.
   - [Pascal](#pascal)
 - [Operating Systems](#operating-systems)
   - [MSX-DOS](#msx-dos)
-- [Software Databases](#software-databases)
 - [Hardware](#hardware)
 - [Magazines](#magazines)
 - [Communities](#communities)
+- [Resources](#resources)
 - [Contributing](#contributing)
 
 ## Programming Languages
@@ -31,13 +31,13 @@ A curated list of awesome resources for the 8-bit MSX computer.
 
 ### MSX-DOS
 
-## Software Databases
-
 ## Hardware
 
 ## Magazines
 
 ## Communities
+
+## Resources
 
 ## Contributing
 
