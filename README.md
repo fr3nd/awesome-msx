@@ -24,6 +24,7 @@ A curated list of awesome resources for the 8-bit MSX computer.
 ### C
 
 * [Relearning MSX](http://www.lavandeira.net/relearning-msx/) - Series of articles about developing software mostly in C and assembly language.
+* [SDCC for MSX sources](http://smecers.appspot.com/SDCC_msx/index.htm) - C library ported from SOLIDC and many useful examples on how to use it.
 
 ### Assembler
 
