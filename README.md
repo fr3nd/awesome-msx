@@ -23,6 +23,8 @@ A curated list of awesome resources for the 8-bit MSX computer.
 
 ### C
 
+* [Relearning MSX](http://www.lavandeira.net/relearning-msx/) - Series of articles about developing software mostly in C and assembly language.
+
 ### Assembler
 
 ### Pascal
