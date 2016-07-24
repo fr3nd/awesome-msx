@@ -39,6 +39,8 @@ A curated list of awesome resources for the 8-bit MSX computer.
 
 ## Hardware
 
+* [MSX Cartridge Shop](http://www.msxcartridgeshop.com/) - Shop with high quality cartridges. Also producers of the MegaFlashROM.
+
 ## Software
 
 * [Preservación de cintas MSX](http://cintasmsx.webcindario.com/) :es: - Tape software preservation project with big compilation of softare in CAS format and utils to use it in real hardware.
