@@ -12,6 +12,7 @@ A curated list of awesome resources for the 8-bit MSX computer.
 - [Operating Systems](#operating-systems)
   - [MSX-DOS](#msx-dos)
 - [Hardware](#hardware)
+- [Software](#software)
 - [Magazines](#magazines)
 - [Communities](#communities)
 - [Resources](#resources)
@@ -37,6 +38,10 @@ A curated list of awesome resources for the 8-bit MSX computer.
 ### MSX-DOS
 
 ## Hardware
+
+## Software
+
+* [Preservación de cintas MSX](http://cintasmsx.webcindario.com/) :es: - Tape software preservation project with big compilation of softare in CAS format and utils to use it in real hardware.
 
 ## Magazines
 
