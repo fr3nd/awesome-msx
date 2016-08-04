@@ -53,6 +53,8 @@ A curated list of awesome resources for the 8-bit MSX computer.
 
 ## Resources
 
+* [MSX Archive](http://www.msxarchive.nl/pub/msx/) - Big archive with software, technical manuals and other stuff.
+
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/fr3nd/awesome-msx/blob/master/CONTRIBUTING.md) first.
