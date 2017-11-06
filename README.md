@@ -30,6 +30,7 @@ A curated list of awesome resources for the 8-bit MSX computer.
 ### Assembler
 
 * [MSX Assembly Page](http://map.grauw.nl/) - Loads of articles and technical references. Mostly for assebler but useful for other languages too.
+* [The MSX Red Book](https://github.com/oraculo666/The-MSX-Red-Book) - The MSX Red Book in Markdown format. Essential technical information on how the standard works.
 
 ### Pascal
 
