@@ -4,11 +4,12 @@ A curated list of awesome resources for the 8-bit MSX computer.
 
 ## Table of Contents
 
-- [Programming Languages](#programming-languages)
+- [Development](#development)
   - [Basic](#basic)
   - [C](#c)
   - [Assembler](#assembler)
   - [Pascal](#pascal)
+  - [Tools](#tools)
 - [Operating Systems](#operating-systems)
   - [MSX-DOS](#msx-dos)
 - [Hardware](#hardware)
@@ -18,7 +19,7 @@ A curated list of awesome resources for the 8-bit MSX computer.
 - [Resources](#resources)
 - [Contributing](#contributing)
 
-## Programming Languages
+## Development
 
 ### Basic
 
@@ -33,6 +34,10 @@ A curated list of awesome resources for the 8-bit MSX computer.
 * [The MSX Red Book](https://github.com/oraculo666/The-MSX-Red-Book) - The MSX Red Book in Markdown format. Essential technical information on how the standard works.
 
 ### Pascal
+
+### Tools
+
+* [MSX Pen](http://msxpen.com/) - MSX Developer Playground & Code Editor in the browser.
 
 ## Operating Systems
 
