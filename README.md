@@ -40,6 +40,10 @@ A curated list of awesome resources for the 8-bit MSX computer.
 
 * [MSX Pen](http://msxpen.com/) - MSX Developer Playground & Code Editor in the browser.
 
+### Graphics
+
+* [nMSXTiles](http://pentacour.com/nmsxtiles/) - Screen, tiles and sprites editor for MSX screen 2.
+
 ## Operating Systems
 
 ### MSX-DOS
