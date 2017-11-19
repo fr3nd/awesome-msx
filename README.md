@@ -52,6 +52,7 @@ A curated list of awesome resources for the 8-bit MSX computer.
 
 * [Preservación de cintas MSX](http://cintasmsx.webcindario.com/) :es: - Tape software preservation project with big compilation of softare in CAS format and utils to use it in real hardware.
 * [CAS Tools](https://github.com/joyrex2001/castools) - Set of tools to read files in wav format and convert them to .cas and back to .wav. There are also [Windows binaries](http://home.kabelfoon.nl/~vincentd/) available.
+* [MSX CAS Packager](http://mcp.typeinference.com/) - A command line interface (CLI) tool to pack/unpack MSX CAS files. Some code is based on CAS Tools.
 
 ## Magazines
 
