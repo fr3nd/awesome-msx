@@ -43,6 +43,7 @@ A curated list of awesome resources for the 8-bit MSX computer.
 ### Graphics
 
 * [nMSXTiles](http://pentacour.com/nmsxtiles/) - Screen, tiles and sprites editor for MSX screen 2.
+* [TinySprite](http://msx.jannone.org/tinysprite/tinysprite.html) - Online sprite editor.
 
 ## Operating Systems
 
